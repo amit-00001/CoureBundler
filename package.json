@@ -7,8 +7,19 @@
   "scripts": {
     "dev": "nodemon server.js"
   },
+  
+  "repository": {
+            "type": "git",
+          "url": "git+https://github.com/amit-00001/CoureBundler.git"
+        },
+
   "author": "",
   "license": "ISC",
+  "bugs": {
+          "url": "https://github.com/amit-00001/CoureBundler/issues"
+      },
+  "homepage": "https://github.com/amit-00001/CoureBundler#readme",
+
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cloudinary": "^1.30.0",
